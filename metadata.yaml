@@ -1,0 +1,62 @@
+_repo: One-of-Cleopatra-s-Nights-and-Other-Fantastic-Romances_39397
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gaultier, Theophile
+    - Gautier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+description: "One of Cleopatra's Nights and Other Fantastic Romances is a collection\
+  \ of fantasy short stories by Théophile Gautier, selected from his Nouvelles and\
+  \ Romans et Contes and translated from the French by Lafcadio Hearn. The translation\
+  \ was Hearn's first book, and is considered one of the best English translations\
+  \ of Gautier. It was first published in hardcover by Richard Worthington in 1882,\
+  \ and reprinted in 1886, 1888, 1890 and 1891; later reprint editions were issued\
+  \ by H. W. Hagemann (1894) and Brentano's in 1899, 1900, 1906, 1910, 1915, and 1927.\
+  \ The first British edition was published by MacLaren and Co. in 1907. The book\
+  \ was reprinted as a trade paperback by Wildside Press in 1999.\nLin Carter intended\
+  \ to reissue the collection as a volume in the Ballantine Adult Fantasy series,\
+  \ though this hope was not realized.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2012-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39397'
+  lccn: '99003537'
+  wikidata: Q17041628
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+tableOfContents: 'One of Cleopatra''s nights -- Clarimonde -- Arria Marcella -- The
+  mummy''s foot -- Omphale: a rococo story -- King Candaules.'
+title: One of Cleopatra's Nights and Other Fantastic Romances
+url: http://www.gutenberg.org/ebooks/39397
+wikipedia:
+- https://en.wikipedia.org/wiki/One_of_Cleopatra%27s_Nights_and_Other_Fantastic_Romances
